@@ -47,6 +47,4 @@ Welcome to this repository! This project contains practical implementations of M
 - **Visualization:** `plotly`, `matplotlib`, `seaborn`
 - **Environment:** Jupyter Notebook
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/maysoonsobhy/Machine-learning-tasks.git](https://github.com/maysoonsobhy/Machine-learning-tasks.git)
+
